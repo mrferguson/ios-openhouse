@@ -13,9 +13,9 @@ class SignUpViewController: UIViewController, UITextFieldDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        self.view.backgroundColor = UIColor(red: 204/255, green: 229/255, blue: 1, alpha: 1)
+        self.view.backgroundColor = UIColor(red: 220/255, green: 235/255, blue: 1, alpha: 1)
         
-        var screenSize = UIScreen.mainScreen().bounds
+        var screenSize = view.bounds
         
         let title = UILabel(frame: CGRectMake(0, screenSize.height * 0.3, screenSize.width, 50))
         title.text = "Create an account"

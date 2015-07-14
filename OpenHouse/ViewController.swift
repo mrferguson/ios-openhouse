@@ -14,7 +14,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
         
         self.view.backgroundColor = UIColor(red: 1, green: 1, blue: 1, alpha: 1)
         
-        var screenSize = UIScreen.mainScreen().bounds
+        var screenSize = view.bounds
         
         super.viewDidLoad()
         
