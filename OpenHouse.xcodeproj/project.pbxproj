@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2BC249651B557D8600F6581D /* AddListingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BC249641B557D8600F6581D /* AddListingViewController.swift */; };
+		2BC249671B557DF700F6581D /* AddClientViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BC249661B557DF700F6581D /* AddClientViewController.swift */; };
+		2BC249691B558CB600F6581D /* house0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2BC249681B558CB600F6581D /* house0.jpg */; };
+		2BC2496D1B55905300F6581D /* house1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2BC2496A1B55905300F6581D /* house1.jpg */; };
+		2BC2496E1B55905300F6581D /* house2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2BC2496B1B55905300F6581D /* house2.jpg */; };
+		2BC2496F1B55905300F6581D /* house3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2BC2496C1B55905300F6581D /* house3.jpg */; };
 		2BEB19631B543A0200531FE8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BEB19621B543A0200531FE8 /* AppDelegate.swift */; };
 		2BEB19651B543A0200531FE8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BEB19641B543A0200531FE8 /* ViewController.swift */; };
 		2BEB19681B543A0200531FE8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2BEB19661B543A0200531FE8 /* Main.storyboard */; };
@@ -15,7 +21,6 @@
 		2BEB19791B543A0200531FE8 /* OpenHouseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BEB19781B543A0200531FE8 /* OpenHouseTests.swift */; };
 		2BEB19851B548AAE00531FE8 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BEB19841B548AAE00531FE8 /* SignUpViewController.swift */; };
 		2BEB19871B54954F00531FE8 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BEB19861B54954F00531FE8 /* MainViewController.swift */; };
-		2BEB19891B5499E700531FE8 /* MainCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BEB19881B5499E700531FE8 /* MainCollectionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,6 +34,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2BC249641B557D8600F6581D /* AddListingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddListingViewController.swift; sourceTree = "<group>"; };
+		2BC249661B557DF700F6581D /* AddClientViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddClientViewController.swift; sourceTree = "<group>"; };
+		2BC249681B558CB600F6581D /* house0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = house0.jpg; sourceTree = "<group>"; };
+		2BC2496A1B55905300F6581D /* house1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = house1.jpg; sourceTree = "<group>"; };
+		2BC2496B1B55905300F6581D /* house2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = house2.jpg; sourceTree = "<group>"; };
+		2BC2496C1B55905300F6581D /* house3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = house3.jpg; sourceTree = "<group>"; };
 		2BEB195D1B543A0200531FE8 /* OpenHouse.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OpenHouse.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2BEB19611B543A0200531FE8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2BEB19621B543A0200531FE8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -41,7 +52,6 @@
 		2BEB19781B543A0200531FE8 /* OpenHouseTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenHouseTests.swift; sourceTree = "<group>"; };
 		2BEB19841B548AAE00531FE8 /* SignUpViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
 		2BEB19861B54954F00531FE8 /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
-		2BEB19881B5499E700531FE8 /* MainCollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainCollectionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,7 +97,12 @@
 				2BEB19641B543A0200531FE8 /* ViewController.swift */,
 				2BEB19841B548AAE00531FE8 /* SignUpViewController.swift */,
 				2BEB19861B54954F00531FE8 /* MainViewController.swift */,
-				2BEB19881B5499E700531FE8 /* MainCollectionViewController.swift */,
+				2BC249681B558CB600F6581D /* house0.jpg */,
+				2BC2496A1B55905300F6581D /* house1.jpg */,
+				2BC2496B1B55905300F6581D /* house2.jpg */,
+				2BC2496C1B55905300F6581D /* house3.jpg */,
+				2BC249641B557D8600F6581D /* AddListingViewController.swift */,
+				2BC249661B557DF700F6581D /* AddClientViewController.swift */,
 				2BEB19661B543A0200531FE8 /* Main.storyboard */,
 				2BEB19691B543A0200531FE8 /* Images.xcassets */,
 				2BEB196B1B543A0200531FE8 /* LaunchScreen.xib */,
@@ -201,8 +216,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2BC2496E1B55905300F6581D /* house2.jpg in Resources */,
 				2BEB19681B543A0200531FE8 /* Main.storyboard in Resources */,
 				2BEB196D1B543A0200531FE8 /* LaunchScreen.xib in Resources */,
+				2BC249691B558CB600F6581D /* house0.jpg in Resources */,
+				2BC2496D1B55905300F6581D /* house1.jpg in Resources */,
+				2BC2496F1B55905300F6581D /* house3.jpg in Resources */,
 				2BEB196A1B543A0200531FE8 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -225,7 +244,8 @@
 				2BEB19651B543A0200531FE8 /* ViewController.swift in Sources */,
 				2BEB19631B543A0200531FE8 /* AppDelegate.swift in Sources */,
 				2BEB19871B54954F00531FE8 /* MainViewController.swift in Sources */,
-				2BEB19891B5499E700531FE8 /* MainCollectionViewController.swift in Sources */,
+				2BC249651B557D8600F6581D /* AddListingViewController.swift in Sources */,
+				2BC249671B557DF700F6581D /* AddClientViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -423,6 +443,7 @@
 				2BEB197E1B543A0200531FE8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2BEB197F1B543A0200531FE8 /* Build configuration list for PBXNativeTarget "OpenHouseTests" */ = {
 			isa = XCConfigurationList;
@@ -431,6 +452,7 @@
 				2BEB19811B543A0200531FE8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
